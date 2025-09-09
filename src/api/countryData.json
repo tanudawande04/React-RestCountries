@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": "125 million",
+        "interestingFact": "Tokyo is the most populous metropolitan area in the world."
+    },
+    {
+        "id": 2,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": "214 million",
+        "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest on Earth."
+    },
+    {
+        "id": 3,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": "26 million",
+        "interestingFact": "Australia is the only continent without an active volcano."
+    },
+    {
+        "id": 4,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": "1.4 billion",
+        "interestingFact": "India is the world's largest democracy."
+    },
+    {
+        "id": 5,
+        "countryName": "Egypt",
+        "capital": "Cairo",
+        "population": "112 million",
+        "interestingFact": "Egypt is home to the only remaining Wonder of the Ancient World, the Great Pyramid of Giza."
+    },
+    {
+        "id": 6,
+        "countryName": "Iceland",
+        "capital": "Reykjavík",
+        "population": "380,000",
+        "interestingFact": "Nearly 100% of Iceland's electricity comes from renewable energy."
+    },
+    {
+        "id": 7,
+        "countryName": "China",
+        "capital": "Beijing",
+        "population": "1.41 billion",
+        "interestingFact": "The Great Wall of China is over 21,000 kilometers long."
+    },
+    {
+        "id": 8,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": "39 million",
+        "interestingFact": "Canada has more lakes than the rest of the world combined."
+    },
+    {
+        "id": 9,
+        "countryName": "South Africa",
+        "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+        "population": "61 million",
+        "interestingFact": "South Africa has three capital cities, each serving a different purpose."
+    },
+    {
+        "id": 10,
+        "countryName": "Switzerland",
+        "capital": "Bern",
+        "population": "9 million",
+        "interestingFact": "Switzerland has not been in a state of war since 1815."
+    }
+]
